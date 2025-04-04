@@ -4,7 +4,7 @@
   "description": "shopware-mcp MCP server",
   "type": "module",
   "bin": {
-    "shopware-mcp": "./dist/index.js"
+    "shopware-mcp": "dist/index.js"
   },
   "files": [
     "dist"
